@@ -10,10 +10,12 @@ The player can only pick one answer per question.
 ![Trivia Gmae - Main Page](assets/images/main_page.png)
 
 (Main Page)
+***
 
 ![Trivia Game - Body Page](assets/images/body_page.png)
 
 (Body Page)
+***
 
 ![Trivia Game - End Page](assets/images/end_page.png)
 
